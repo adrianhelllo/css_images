@@ -52,7 +52,8 @@ img {
 
     background-color: rgb(138, 233, 129);
     background-image: url(lime_doe.webp);
-    background-size: contain;
+    background-repeat: round;
+    background-size: cover;
 }
 
 .profile-pic-figure img {
@@ -70,4 +71,6 @@ figcaption {
 
 .h1 {
     font-size: 300%;
+    color: aliceblue;
+    text-shadow: 2px 2px 5px black;
 }
