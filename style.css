@@ -11,13 +11,13 @@ body {
 .clip {
     font-weight: 800;
     font-size: 18rem;
+    background: repeat-y center center url(lime_doe.webp) /* can also add properties for a second background image here separated by a comma */;
     text-align: center;
-    background-image: url(lime_doe.webp);
     background-size: 100%;
     text-transform: uppercase;
     background-clip: text;
     -webkit-background-clip: text; /* common prefix for browsers, rarely used tag */
-    color: rgba(155, 241, 128, 0.61)
+    color: rgba(155, 241, 128, 0.61);
 }
 
 /* start of reset */
