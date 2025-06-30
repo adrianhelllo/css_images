@@ -76,6 +76,6 @@ figcaption {
 
 .container {
     background-image: url(lime_doe.webp);
-    background-repeat: round;
+    background-position: center center;
     background-size: cover;
 }
