@@ -3,6 +3,8 @@
 body {
     font-family: 'Schibsted Grotesk', sans-serif;
     min-height: 100vh;
+    background-color: aquamarine;
+    background-image: linear-gradient(to left, steelblue, aliceblue);
 }
 
 /* start of reset */
