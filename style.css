@@ -49,6 +49,9 @@ img {
     justify-content: flex-start;
     align-items: center;
     gap: 2rem;
+
+    background-color: rgb(138, 233, 129);
+    background-image: url(lime_doe.webp);
 }
 
 .profile-pic-figure img {
