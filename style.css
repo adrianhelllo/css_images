@@ -4,8 +4,18 @@ body {
     font-family: 'Schibsted Grotesk', sans-serif;
     min-height: 100vh;
     background-color: aquamarine;
-    background-image: linear-gradient(to left, steelblue, rgba(230, 230, 255, 0.3));
-    background-repeat: repeat-x;
+    /* background-image: linear-gradient(to left, steelblue, rgba(230, 230, 255, 0.3));
+    background-repeat: repeat-x; */
+}
+
+.clip {
+    font-weight: 800;
+    font-size: 18rem;
+    text-align: center;
+    background-image: url(lime_doe.webp);
+    background-size: 100%;
+    text-transform: uppercase;
+    
 }
 
 /* start of reset */
