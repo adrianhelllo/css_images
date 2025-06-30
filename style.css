@@ -73,4 +73,7 @@ figcaption {
     font-size: 300%;
     color: aliceblue;
     text-shadow: 2px 2px 5px black;
+    background-color: rgba(0, 0, 0, .3);
+    padding: 0.25rem;
+    border-radius: 0.75rem;
 }
