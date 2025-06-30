@@ -49,8 +49,7 @@ img {
     justify-content: flex-start;
     align-items: center;
     gap: 2rem;
-
-    
+    background-color: rgba(138, 233, 129, 0.4);
 }
 
 .profile-pic-figure img {
@@ -76,7 +75,6 @@ figcaption {
 }
 
 .container {
-    background-color: rgb(138, 233, 129);
     background-image: url(lime_doe.webp);
     background-repeat: round;
     background-size: cover;
