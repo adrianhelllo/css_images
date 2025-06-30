@@ -17,6 +17,17 @@ img {
 }
 /* end of reset */
 
+/* utility classes */
+.nowrap {
+    white-space: nowrap;
+}
+
+.offscreen {
+    position: absolute;
+    left: -10000px
+}
+/* end utility classes */
+
 .example {
     margin-top: 1rem;
     padding-left: 20px;
