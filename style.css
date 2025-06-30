@@ -50,3 +50,7 @@ figcaption {
     text-align: center;
     font-style: oblique;
 }
+
+.h1 {
+    font-size: 300%;
+}
