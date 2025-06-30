@@ -52,7 +52,7 @@ img {
 
     background-color: rgb(138, 233, 129);
     background-image: url(lime_doe.webp);
-    background-repeat: repeat-x;
+    background-repeat: repeat-y;
 }
 
 .profile-pic-figure img {
