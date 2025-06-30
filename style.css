@@ -4,7 +4,8 @@ body {
     font-family: 'Schibsted Grotesk', sans-serif;
     min-height: 100vh;
     background-color: aquamarine;
-    background-image: linear-gradient(to left, steelblue, rgba(230, 230, 255, 0.3));
+    background-image: url(lime_doe.webp),
+                    linear-gradient(to left, steelblue, rgba(230, 230, 255, 0.3));
 }
 
 /* start of reset */
