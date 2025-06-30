@@ -15,8 +15,9 @@ body {
     background-image: url(lime_doe.webp);
     background-size: 100%;
     text-transform: uppercase;
-    -webkit-background-clip: text;
-    color: rgba(0, 0, 0, 0)
+    background-clip: text;
+    -webkit-background-clip: text; /* common prefix for browsers, rarely used tag */
+    color: rgba(155, 241, 128, 0.61)
 }
 
 /* start of reset */
@@ -83,7 +84,7 @@ figcaption {
     font-size: 300%;
     color: aliceblue;
     text-shadow: 2px 2px 5px black;
-    background-color: rgba(0, 0, 0, .3);
+    background-color: rgba(154, 243, 169, 0.986);
     padding: 0.25rem;
     border-radius: 0.75rem;
 }
