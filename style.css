@@ -14,3 +14,14 @@ body {
 img {
     display: inline
 }
+
+.example {
+    margin-top: 1rem;
+    padding-left: 20px;
+    border: 2px solid #f00;
+}
+
+.example img {
+    width: 25%;
+    height: auto;
+}
